@@ -1,2 +1,3 @@
 # Deep learning NLP ChatBot
-Building a SEQ2SEQ architecture ChatBot
+
+We will through this tutorial build a SEQ2SEQ architecture ChatBot.
